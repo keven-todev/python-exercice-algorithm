@@ -22,3 +22,4 @@ def inverser_chaine(chaine):
     return chaine_inverse
 
 print(inverser_chaine(chaine))
+
